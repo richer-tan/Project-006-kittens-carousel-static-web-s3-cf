@@ -1,0 +1,1 @@
+aws s3 cp --recursive static-web/ s3://kittens.richertan.click
